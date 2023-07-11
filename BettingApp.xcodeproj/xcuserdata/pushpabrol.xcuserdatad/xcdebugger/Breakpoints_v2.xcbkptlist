@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0D694E9-A0A7-426B-9AC2-1066A4D5EA56"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D52B2EC0-C405-4773-9784-1EECEB572451"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init?(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B79C9DD1-4BE5-4300-8FA3-94D0FB0877C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init?(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B79C9DD1-4BE5-4300-8FA3-94D0FB0877C1 - 76a1ffddb4893b8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftSample.User.init(from: Swift.String) -&gt; Swift.Optional&lt;SwiftSample.User&gt;"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/User.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1972">
+               </Location>
+               <Location
+                  uuid = "B79C9DD1-4BE5-4300-8FA3-94D0FB0877C1 - 76a1ffddb4893b8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftSample.User.init(from: Swift.String) -&gt; Swift.Optional&lt;SwiftSample.User&gt;"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/User.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "2220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95059AE1-F5DE-4E26-9266-991BEF78C0D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init?(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68CEB225-2EB1-4AFB-B7C9-943C3A74CB4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init?(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68CEB225-2EB1-4AFB-B7C9-943C3A74CB4A - 76a1ffddb4893b20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftSample.User.init(from: Swift.String) -&gt; Swift.Optional&lt;SwiftSample.User&gt;"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/User.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "68CEB225-2EB1-4AFB-B7C9-943C3A74CB4A - 76a1ffddb4893b20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftSample.User.init(from: Swift.String) -&gt; Swift.Optional&lt;SwiftSample.User&gt;"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/User.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "142E0341-DCF5-4333-959C-D354E2DA3D61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init?(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C2A0E9C-22F0-4C8A-85B9-5C051577FD99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A056BFA5-5E43-41F8-BF4C-DA6C7D60F7DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A056BFA5-5E43-41F8-BF4C-DA6C7D60F7DE - e77907855e5be106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PasscodeField.DigitGroup, (Swift.Bool) -&gt; ()) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in SwiftSample.PasscodeEntryView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "A056BFA5-5E43-41F8-BF4C-DA6C7D60F7DE - e77907855e5be01e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PasscodeField.DigitGroup, (Swift.Bool) -&gt; ()) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in SwiftSample.PasscodeEntryView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BA1C541-8BAA-4DF6-BA73-6FC611F60D19"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0BA1C541-8BAA-4DF6-BA73-6FC611F60D19 - e50833eb78c4db9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.VStack&lt;SwiftSample.ProfileView&gt;, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftSample.PasscodeCreationView, SwiftSample.PasscodeEntryView&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftSample.HeroView, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;&gt;&gt; in SwiftSample.MainView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2888">
+               </Location>
+               <Location
+                  uuid = "0BA1C541-8BAA-4DF6-BA73-6FC611F60D19 - a762941f197299bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.String) -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.VStack&lt;SwiftSample.ProfileView&gt;, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftSample.PasscodeCreationView, SwiftSample.PasscodeEntryView&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftSample.HeroView, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;&gt;&gt; in SwiftSample.MainView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0BA1C541-8BAA-4DF6-BA73-6FC611F60D19 - a762941f1972999c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.String) -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.VStack&lt;SwiftSample.ProfileView&gt;, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftSample.PasscodeCreationView, SwiftSample.PasscodeEntryView&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftSample.HeroView, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;&gt;&gt; in SwiftSample.MainView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76E15DBF-F9F7-4DD3-B4A5-5EFBC96E5FA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "76E15DBF-F9F7-4DD3-B4A5-5EFBC96E5FA4 - e50833eb78c4dbbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.VStack&lt;SwiftSample.ProfileView&gt;, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftSample.PasscodeCreationView, SwiftSample.PasscodeEntryView&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftSample.HeroView, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;&gt;&gt; in SwiftSample.MainView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2736">
+               </Location>
+               <Location
+                  uuid = "76E15DBF-F9F7-4DD3-B4A5-5EFBC96E5FA4 - e1678f2c4320e33a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftSample.ProfileView, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftSample.PasscodeCreationView, SwiftSample.PasscodeEntryView&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftSample.HeroView, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;&gt;&gt; in SwiftSample.MainView.body.getter : some"
+                  moduleName = "SwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pushpabrol/BettingMobileApp/Sources/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
