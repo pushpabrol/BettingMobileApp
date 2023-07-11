@@ -208,7 +208,7 @@ struct PasscodeEntryView: View {
 
     var body: some View {
         VStack {
-            Text("Enter your PIN to continue logging in!")
+            Text("Enter PIN to continue logging in!")
                 .font(.title2)
 
             PasscodeField("") { digits, action in
